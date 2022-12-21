@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = "https://euphonious-gumption-b6014e.netlify.app/posts/my-first-post/"
 languageCode = 'en-us'
 title = 'My New Blog'
 theme = 'PaperMod' 
