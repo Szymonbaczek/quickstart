@@ -1,0 +1,19 @@
+baseURL: 'https://euphonious-gumption-b6014e.netlify.app'
+languageCode: en-us
+title: My New Blog
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
