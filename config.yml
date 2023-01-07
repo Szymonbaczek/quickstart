@@ -18,7 +18,10 @@ params:
 
   homeInfoParams:
         Title: Hello! I'm glad you're here :D
-        Content: Welcome to my blog, where you can find lots of front-end developing knowledge and you can see how my programming journey goes! I try to describe in detail my struggles with various programming problems. As I put up this blog, I am comfortable with .html, .css, .md, git and creating a static page generator like Hugo. My native language is Polish, so I apologize for any language mistakes. If you're looking for something on a specific topic, take a look at the tags section.
+        Content: "Welcome to my blog, where you can find lots of front-end developing knowledge and you can see how my programming journey goes!\t I try to describe in detail my struggles with various programming problems.\t As I put up this blog, I am comfortable with .html, .css, .md, git and creating a static page generator like Hugo.\t My native language is Polish, so I apologize for any language mistakes.\t If you're looking for something on a specific topic, take a look at the tags section.\n"
+
+
+
   socialIcons:
     - name: facebook
       url: "https://www.facebook.com/profile.php?id=100011552317797"
