@@ -18,7 +18,7 @@ params:
 
   homeInfoParams:
         Title: I'm glad you're here :D
-        Content: Welcome to my blog, where you can find lots of front-end developing knowledge and you can see how my programming journey goes!
+        Content: Welcome to my blog, where you can find lots of front-end developing knowledge and you can see how my programming journey goes! <br><br> I try to describe in detail my struggles with various programming problems. As I put up this blog, I am comfortable with .html, .css, .md, git and creating a static page generator like Hugo. My native language is Polish, so I apologize for any language mistakes. <br><br> If you're looking for something on a specific topic, take a look at the tags section.
      
 menu:
   main:
