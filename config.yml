@@ -3,6 +3,20 @@ languageCode: en-us
 title: My New Blog
 theme: PaperMod
 
+
+params:
+  cover:
+    linkFullImages: true
+  
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+
 menu:
   main:
     - identifier: categories
