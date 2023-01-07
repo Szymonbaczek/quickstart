@@ -17,16 +17,9 @@ params:
   ShowPostNavLinks: true
 
   homeInfoParams:
-        Title: I'm glad you're here wave
-        Content: Welcome to my blog, where you can find lots of front-end developing knowledge and you can see how my programming journey goes :D
-
-  socialIcons: 
-        - name: "Facebook>"
-          url: "<https://www.facebook.com/profile.php?id=100011552317797>"
-        - name: "<GitHub>"
-          url: "<https://github.com/Szymonbaczek/quickstart>"       
-
-
+        Title: I'm glad you're here :D
+        Content: Welcome to my blog, where you can find lots of front-end developing knowledge and you can see how my programming journey goes!
+     
 menu:
   main:
     - identifier: categories
