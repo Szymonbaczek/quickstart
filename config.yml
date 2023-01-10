@@ -2,7 +2,7 @@ baseURL: 'https://euphonious-gumption-b6014e.netlify.app'
 languageCode: en-us
 title: Simon The Rising Front-End Star
 theme: PaperMod
-
+canonifyURLs: false
 
 params:
   cover:
